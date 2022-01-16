@@ -7,9 +7,9 @@
       <mapping ext="mustache" type="PLAIN_TEXT" />
       <mapping ext="yml" type="PLAIN_TEXT" />
       <mapping ext="graphqls" type="PLAIN_TEXT" />
-      <removed_mapping ext="yml" type="YAML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping ext="yml" approved="true" type="YAML" />
     </extensionMap>
   </component>
 </application>
