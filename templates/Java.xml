@@ -9,4 +9,9 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="ts" value="@Test&#10;void solution() {&#10;    $END$&#10;    Assertions.assertThat(target.solution());&#10;}" description="Test(Junit5) for Algorithm Solution" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
